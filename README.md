@@ -1,1 +1,1 @@
-# CPU-Schedular
+# CPU-Scheduling Algorithms
